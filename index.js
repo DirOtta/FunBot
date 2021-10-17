@@ -5,7 +5,7 @@ const Client = new Discord.Client({
         Discord.Intents.FLAGS.GUILD_MESSAGES
     ]});
 
-Client.login("ODk4NjAzNzQ0NzM0ODcxNjEy.YWmn8w.9Z3c989X6XExZBJtb0MCGG-qAKo");
+Client.login("put a token");
 
 const prefix = "c!";
 
