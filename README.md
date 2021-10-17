@@ -8,4 +8,4 @@
 
 ---
 
-See the code [here)(https://github.com/DirOtta/FunBot) 
+See the code [here](https://github.com/DirOtta/FunBot) 
