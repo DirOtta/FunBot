@@ -9,3 +9,9 @@
 ---
 
 See the code [here](https://github.com/DirOtta/FunBot) 
+
+---
+  
+  ## Want to Contact ?
+  
+[Contact](https://github.com/DirOtta) me or join [LAW's Discord](https://discord.com/invite/gmtqE4ScJB) server.
